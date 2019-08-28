@@ -1,9 +1,5 @@
-redis-sentinel
+redis-sentinel-docker
 ===
-
-Dockerfiles for [Redis Sentinel](http://redis.io/topics/sentinel) based on alpine images, suitable for the production environment. Image is available directly from [public docker registry](https://registry.hub.docker.com/).
-This images are updated via [pull requests to the `s7anley/redis-sentinel-docker` GitHub repo](https://github.com/s7anley/redis-sentinel-docker).
-
 
 Redis Sentinel
 ---

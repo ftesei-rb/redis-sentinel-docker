@@ -14,7 +14,7 @@ services:
         build: .
         image: redis-sentinel
         environment:
-            - MASTER_NAME=mymaster
+            - MASTER_NAME=decidirMaster
             - QUORUM=1
             - MASTER=redis_master
         depends_on:
